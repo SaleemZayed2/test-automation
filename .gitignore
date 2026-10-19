@@ -1,0 +1,8 @@
+.venv
+.codex
+.agents
+.env
+evaluation*/
+__pycache__/
+*.py[cod]
+_pycache__/
